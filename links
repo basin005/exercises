@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Links and Comments</title>
+</head>
+<hr/>
+<body>
+<h1>Hello World!</h1>
+<h2>A place I would like to visit:</h2>
+<!--My second choice would be Sweden-->
+<p><a href="https://www.japan-guide.com/e/e2165.html" target="_blank">Japan</a>, because I want to see the historic sites that I have studied in my art history classes. I also have a friend in Saitama that came to study at my previous university who I would like to see again.</p>
+<h2>A person I admire:</h2>
+<!--I admire anyone who is brave enough to do what they love despite criticism-->
+<p>I admire <a href="https://en.wikipedia.org/wiki/Matthew_Mercer" target="_blank">Matthew Mercer</a>, because he is an extraordinary voice actor and storyteller who inspires creators.</p>
+<h2>Favorite Fruits:</h2>
+<ul>
+    <li>Raspberry</li>
+    <li>Pear</li>
+    <li>Strawberry</li>
+    <li>Orange</li>
+    <li>Watermelon</li>
+</ul>
+<h2>Favorite Presidents:</h2>
+<ol>
+    <li>Barack Obama</li>
+    <li>George Washington</li>
+    <li>Alexander Hamilton</li>
+    <li>Abraham Lincoln</li>
+    <li>John Adams</li>
+</ol>
+</body>
+</html>
