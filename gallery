@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>My Photo Gallery</title>
+</head>
+<body>
+<h1>Photo Gallery: Dog Breeds</h1>
+<a href="image1.html"><img src="thumb_pekingese.jpg" width="150" height="99" alt="Pekingese" /></a>
+<p>Pekingese: A small, brachycephalic dog with long hair.</p>
+<a href="image2.html"><img src="thumb_pomeranian.jpg" width="150" height="100" alt="Pomeranian" /></a>
+<p>Pomeranian: A small dog with an extremely long and fluffy coat.</p>
+<a href="image3.html"><img src="thumb_pug.jpg" width="150" height="99" alt="Pug" /></a>
+<p>Pug: A small, brachycephalic dog with a short, wirey coat. It's also my favorite dog breed.</p> 
+<a href="image4.html"><img src="thumb_shiba_inu.jpg" width="150" height="84" alt="Shiba Inu" /></a>
+<p>Shiba Inu: A very intelligent, medium sized dog with a short coat that originates from Japan.</p>
+<a href="image5.html"><img src="thumb_shih_tzu.jpg" width="150" height="100" alt="Shih Tzu" /></a>
+<p>Shih Tzu: A small dog with a medium length coat originating from China.</p>
+</body>
+</html>
